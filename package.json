@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CLI to scaffold minimal form projects with SQLite storage",
   "bin": {
-    "form-builder": "./create.js"
+    "build-form": "./create.js"
   },
   "type": "commonjs",
   "engines": {
