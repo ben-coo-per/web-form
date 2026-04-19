@@ -16,13 +16,13 @@ That last point has always pushed me to use google forms - but I hate google for
 You can run it directly with `npx`:
 
 ```bash
-npx @bencooper/form-builder <form-name>
+npx {dir}/form-builder <form-name>
 ```
 
 Or install it globally:
 
 ```bash
-npm install -g @bencooper/form-builder
+npm install -g {dir}/form-builder
 ```
 
 ## Usage
