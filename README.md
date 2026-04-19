@@ -1,8 +1,7 @@
 # Minimal Form Builder
 
-> Stop suffering through Google Forms.
-
-Fed up with how ugly and uncustomizable Google Forms was, I finally built a small scaffold tool to spin up web forms I can actually edit. Each form is a tiny Node.js app with SQLite storage — style it however you want, add custom logic, host it yourself.
+I wanted to make forms that looks nice, are easy to customize, and, crucially, are insanely quick to set up. 
+That last point has always pushed me to use google forms - but I hate google forms. They're really ugly and there's very little customization. I finally decided to build a small scaffold tool to spin up web forms that I can actually edit in just html, css, and js (svelte really) along with all the deployment boilerplate.
 
 ## Features
 
